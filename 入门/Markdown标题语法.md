@@ -1,7 +1,7 @@
 原文位置: https://markdown.com.cn/basic-syntax/headings.html
 
 TOC:
-- [Markdown 标题语法](#Markdown 标题语法)
+- [Markdown 标题语法](#Markdown标题语法)
 - [可选语法](#可选语法)
 - [最佳实践](#最佳实践)
 
