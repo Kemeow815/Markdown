@@ -9,4 +9,4 @@
 
 就是这十个不到的标记符号，却能让人优雅地沉浸式记录，专注内容而不是纠结排版，达到「心中无尘，码字入神」的境界。
 
-让我们从 [Markdown 标题语法](https://github.com/kmfx/Markdown/blob/main/%E5%85%A5%E9%97%A8/Markdown%E6%A0%87%E9%A2%98%E8%AF%AD%E6%B3%95.md) 开始学习吧。
+让我们从 [Markdown 标题语法](https://github.com/Kemeow815/Markdown/blob/main/%E5%85%A5%E9%97%A8/Markdown%20%E6%A0%87%E9%A2%98%E8%AF%AD%E6%B3%95.md) 开始学习吧。
